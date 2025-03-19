@@ -23,7 +23,7 @@ EXAMPLE_PROMPTS = [
     # Weather-related prompts
     "What's the weather like in Seattle?",
     "Will it rain in New York tomorrow?",
-    "Is it sunny in London?",
+    "Is it sunny in Japan?",
     "What's the temperature in Tokyo?",
     
     # Non-weather prompts
