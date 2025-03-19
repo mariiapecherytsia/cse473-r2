@@ -29,6 +29,8 @@ EXAMPLE_PROMPTS = [
     # Non-weather prompts
     "What is the capital of France?",
     "Who wrote 'To Kill a Mockingbird'?",
+    "When did World War II end?",
+
     
     # Complex prompts that would be challenging even with weather API
     "Compare the weather in San Francisco and Las Vegas for the next 3 days",
